@@ -1,0 +1,6 @@
+@import url(../src/components/App/App.css);
+@import url(../src/components/Board/Board.css);
+@import url(../src/components/Row/Row.css);
+@import url(../src/components/Cell/Cell.css);
+@import url(../src/components/BoardHead/BoardHead.css);
+@import url(../src/components/Timer/Timer.css);

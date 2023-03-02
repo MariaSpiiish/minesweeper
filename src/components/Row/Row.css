@@ -1,0 +1,7 @@
+.row {
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: repeat(16, 1fr);
+    padding: 0;
+    margin: 0;
+}

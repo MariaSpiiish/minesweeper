@@ -1,0 +1,21 @@
+.page-container {
+  max-width: 1280px;
+  margin: 0 auto;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.opacity {
+  transition: opacity 0.3s linear;
+}
+
+.opacity:hover {
+opacity: 0.7;
+}
+
+.minesweeper {
+  width: 500px;
+  height: 600px;
+}

@@ -1,0 +1,13 @@
+.board-head {
+    display: flex;
+    border: 10px solid rgba(210, 210, 210, .8);
+    border-style: ridge;
+    height: 60px;
+    justify-content: space-around;
+    align-items: center;
+    background: rgba(210, 210, 210, .8);
+}
+
+.board-head__reset-button {
+    cursor: pointer;
+}
